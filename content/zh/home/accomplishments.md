@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "人工智能学会"
   organization_url = "http://caai.cn"
   title = "人工智能学会吴文俊优秀青年奖"
-  date_start = "2018"
+  date_start = "2018-11-01"
   date_end = ""
   description = ""
 
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   organization = "北京市科学技术协会"
   organization_url = "http://www.bast.net.cn"
   title = "北京市青年人才托举计划"
-  date_start = "2017-03"
-  date_end = "2019-11"
+  date_start = "2017-03-01"
+  date_end = "2019-11-30"
 
 +++
