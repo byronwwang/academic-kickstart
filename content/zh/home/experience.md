@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "中国科学院自动化研究所"
   company_url = "http://www.ia.cas.cn/"
   location = "北京"
-  date_start = "2012-7-11"
+  date_start = "2012-07-11"
   date_end = "2017-10-31"
 
 [[experience]]
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   company = "中国科学院自动化研究所"
   company_url = "http://www.ia.cas.cn/"
   location = "北京"
-  date_start = "2017-11-1"
+  date_start = "2017-11-01"
   date_end = ""
 
 +++
