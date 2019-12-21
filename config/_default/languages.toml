@@ -15,18 +15,19 @@
   [zh.params]
     description = "王伟的个人主页"
   [[zh.menu.main]]
-    name = "简介"
+    name = "个人简介"
     url = "#about"
     weight = 10
   [[zh.menu.main]]
-    name = "项目"
+    name = "学术论文"
+    url = "#featured"
+    weight = 20
+  [[zh.menu.main]]
+    name = "科研项目"
     url = "#projects"
     weight = 30
   [[zh.menu.main]]
-    name = "论文"
-    url = "#featured"
+    name = "团队"
+    url = "#people"
     weight = 40
-  [[zh.menu.main]]
-    name = "联系"
-    url = "#contact"
-    weight = 60
+
