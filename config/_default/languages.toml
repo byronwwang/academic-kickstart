@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "王伟-中国科学院自动化研究所"
+  title = "学术主页"
   [zh.params]
     description = "王伟的个人主页"
   [[zh.menu.main]]
