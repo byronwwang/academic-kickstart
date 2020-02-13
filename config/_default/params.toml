@@ -48,7 +48,9 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "logo-casia.jpg"
+# If using a website logo, such that the logo option is set in params.toml, move the logo image to assets/images/logo.png, 
+# remove the logo option from your params.toml as the image is now automatically detected if it’s present
+# logo = "logo-casia.jpg"
 
 ############################
 ## Site Features
