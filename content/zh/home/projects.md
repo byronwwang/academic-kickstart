@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "科研项目"
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,11 @@ subtitle = ""
  css_class = ""
 +++
 
+1. 国家自然科学基金面上项目, 基于多源线索智能推理决策的图像取证研究, 2020/01-2023/12,  主持.
+2. 北京市自然科学基金面上项目, 社交网络虚假媒体内容检测与识别关键技术, 2019/01-2021/12, 主持.
+3. 国家自然科学基金青年科学基金项目, 基于成像环境约束的低质量图像篡改取证研究, 2016/01-2018/12, 主持.
+4. 北京市自然科学基金青年项目, 基于深度学习的数字图像取证技术研究, 2016/01-2017/06, 主持.
+5. 密码国家重点实验室开放课题面上项目, 基于隐密通信的敏感数据监管保护新方法研究, 2016-2018, 主持.
+6. 信息网络安全公安部重点实验室, 社交网络虚假图像识别关键技术研究, 2017-2018, 主持.
+7. 深圳市媒体信息内容安全重点实验室开放课题, 互联网图像篡改取证研究, 2016-2017, 主持.
+8. 国家自然科学基金联合面上基金, 基于强泛化能力特征提取的图像隐写通用检测技术研究, 2018-2020, 合作单位负责人

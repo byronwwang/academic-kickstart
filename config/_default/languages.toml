@@ -3,9 +3,9 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[en]
-  languageCode = "en-us"
-  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#[en]
+#  languageCode = "en-us"
+#  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
@@ -27,7 +27,10 @@
     url = "#projects"
     weight = 30
   [[zh.menu.main]]
-    name = "团队"
+    name = "所在团队"
     url = "#people"
     weight = 40
-
+  [[zh.menu.main]]
+    name = "招生信息"
+    url = "#enrollment"
+    weight = 60
