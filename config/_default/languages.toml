@@ -21,6 +21,7 @@
   [[zh.menu.main]]
     name = "学术论文"
     url = "#featured"
+    # identifier = "pub"
     weight = 20
   [[zh.menu.main]]
     name = "科研项目"
@@ -33,4 +34,5 @@
   [[zh.menu.main]]
     name = "招生信息"
     url = "#enrollment"
+    # parent = "pub"
     weight = 60
