@@ -1,8 +1,10 @@
 # update
 
+```
 git submodule update --remote --merge
 cd themes/academic
 git checkout v4.7.0
+```
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
