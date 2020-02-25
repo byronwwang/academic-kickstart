@@ -3,29 +3,73 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-  [[main]]
-    name = "个人简介"
-    url = "#about"
-    weight = 10
-  [[main]]
-    name = "科研项目"
-    url = "#funding"
-    weight = 20
-  [[main]]
-    name = "学术论文"
-    url = "#featured"
-    # identifier = "pub"
-    weight = 30
-  [[main]]
-    name = "科研随笔"
-    url = "#posts"
-    # parent = "pub"
-    weight = 40
-  [[main]]
-    name = "所在团队"
-    url = "#people"
-    weight = 50
-  [[main]]
-    name = "招生信息"
-    url = "enrollment/"
-    weight = 50
+[[main]]
+  name = "个人简介"
+  url = "#about"
+  weight = 10
+[[main]]
+  name = "科研项目"
+  url = "#funding"
+  weight = 20
+[[main]]
+  name = "学术论文"
+  url = "#featured"
+  # identifier = "pub"
+  weight = 30
+[[main]]
+  name = "科研随笔"
+  url = "#posts"
+  # parent = "pub"
+  weight = 40
+[[main]]
+  name = "所在团队"
+  url = "#people"
+  weight = 50
+[[main]]
+  name = "招生信息"
+  url = "enrollment/"
+  weight = 50
+#[[main]]
+#  name = "文档"
+#  url = "docs/"
+#  weight = 60
+
+[[docs]]
+  name = "Overview"
+  weight = 10
+  url = "/docs/"
+
+[[docs]]
+  name = "Getting Started"
+  weight = 20
+  identifier = "setup"
+
+[[docs]]
+  name = "Create Content"
+  weight = 30
+  identifier = "content"
+
+[[docs]]
+  name = "Deployment"
+  weight = 40
+  identifier = "deploy"
+
+[[docs]]
+  name = "Features"
+  weight = 50
+  identifier = "features"
+
+[[docs]]
+  name = "Migrate"
+  identifier = "migrate"
+  weight = 60
+
+[[docs]]
+  name = "Contributing"
+  url = "/docs/contribute/"
+  weight = 70
+
+[[docs]]
+  name = "Troubleshooting"
+  weight = 80
+  url = "/docs/faq/"
