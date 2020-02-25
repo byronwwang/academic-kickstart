@@ -13,11 +13,13 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["负责人",
+  user_groups = [
+#                 "负责人",
                  "科研人员",
-                 "工程师",
-                 "在读学生",
-                 "毕业生"]
+#                 "工程师",
+#                 "毕业生",
+                 "在读学生"
+                 ]
 
 [design]
   # Show user's social networking links? (true/false)
