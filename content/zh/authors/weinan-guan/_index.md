@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ucas.ac.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要以多模态信息不一致性检测为研究方向，进行研究生科研工作。
+bio: 主要以多模态信息不一致性检测为研究方向，开展研究生科研工作。
 
 interests:
 - 人工智能
@@ -63,5 +63,5 @@ user_groups:
 - 在读学生
 
 ---
-（个人简介，可详细介绍）
-管伟楠，研究生在读，主要以多模态信息的不一致性检测为研究方向，进行数字取证相关的科研工作。
+
+管伟楠，研究生在读，主要以多模态信息的不一致性检测为研究方向，开展数字取证相关的科研工作。
