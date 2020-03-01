@@ -64,7 +64,7 @@ subtitle = ""
 +++
 <div align="right">
   <h4>
-    <a href="/publication">
+    <a href="./publication">
       查看全部论文
       <i class="fas fa-angle-right"></i>
     </a>

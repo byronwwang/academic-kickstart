@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "代表论文"
 subtitle = ""
 
 [content]
@@ -33,7 +33,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -62,3 +62,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<div align="right">
+  <h4>
+    <a href="./publication">
+      查看全部论文
+      <i class="fas fa-angle-right"></i>
+    </a>
+  </h4>
+</div>

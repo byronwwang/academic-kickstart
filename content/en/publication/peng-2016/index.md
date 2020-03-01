@@ -1,0 +1,13 @@
+---
+title: "Automatic Detection of 3D Lighting Inconsistencies via a Facial Landmark Based Morphable Model"
+date: 2016-09-01
+publishDate: 2020-02-21T12:24:42.294717Z
+authors: ["Bo Peng", "Wei Wang", "Jing Dong", "Tieniu Tan"]
+publication_types: ["1"]
+abstract: "Existing 3D lighting consistency based forensic methods have some practical problems. They usually require additional images and human labor to reconstruct the 3D face model for lighting estimation, and furthermore, they cannot deal with expressional faces effectively. These drawbacks make them unusable in many practical cases. In this paper, we propose a more practical 3D lighting based forensic method by incorporating a facial landmark based 3D morphable model to efficiently fit the face shape. We also introduce a residual error based algorithm to automatically exclude outliers in lighting estimation. Our proposed method is fully automatic and very efficient compared to previous ones. Also, it does not depend on additional images and has better performance for expressional faces. Experiments on a realistic face dataset with variational lighting conditions indicate the efficacy and superiority of our method."
+featured: false
+publication: "*Proceedings - International Conference on Image Processing, ICIP*"
+tags: ["3D morphable model", "Face splicing", "Image forensics", "Lighting consistency"]
+doi: "10.1109/ICIP.2016.7533097"
+---
+
