@@ -28,7 +28,13 @@ enableGitInfo = true
 # Default language to use (if you setup multilingual support)
 DefaultContentLanguage = "zh"
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = true
+
+disableLanguages = ["en"]
+#when only one language enabled, defaultContentLanguageInSubdir should be false
+defaultContentLanguageInSubdir = false
+# Otherwise, defaultContentLanguageInSubdir = true recommeded
+#defaultContentLanguageInSubdir = true
+
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 paginate = 10  # Number of items per page in paginated lists.
