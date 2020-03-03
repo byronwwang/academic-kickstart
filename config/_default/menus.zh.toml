@@ -27,7 +27,7 @@
   weight = 50
 [[main]]
   name = "招生信息"
-  url = "./enrollment/"
+  url = "enrollment/"
   weight = 60
 #[[main]]
 #  name = "文档"
