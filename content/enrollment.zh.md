@@ -4,13 +4,15 @@
 title: "2020年硕士招生"
 subtitle: ""
 summary: ""
-authors: []
+authors:
+  - Wei Wang
 tags: []
 categories: []
 date: 2020-02-21T21:43:14+08:00
 lastmod: 2020-02-21T21:43:14+08:00
 featured: false
 draft: false
+weight: 1
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
