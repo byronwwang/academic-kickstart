@@ -16,6 +16,8 @@ role: 副研究员，硕导
 organizations:
 - name: 中国科学院自动化研究所
   url: "http://www.ia.cas.cn/"
+- name: 智能感知与计算研究中心
+  url: "http://www.cripac.ia.ac.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 主要从事多媒体内容安全、人工智能安全、多模态内容分析与理解等方面的研究工作。
