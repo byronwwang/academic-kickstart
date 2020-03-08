@@ -48,7 +48,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-# If using a website logo, such that the logo option is set in params.toml, move the logo image to assets/images/logo.png, 
+# If using a website logo, such that the logo option is set in params.toml, move the logo image to assets/images/logo.png,
 # remove the logo option from your params.toml as the image is now automatically detected if it’s present
 # logo = "logo-casia.jpg"
 
@@ -160,6 +160,8 @@ sharing = true
 
 # Link authors to their profile page? (true/false)
 link_authors = true
+# an author profile card will be displayed at the end of the page for every author
+profile = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
