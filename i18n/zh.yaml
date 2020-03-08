@@ -89,7 +89,7 @@
 # Experience widget
 
 - id: present
-  translation: 现在
+  translation: 至今
 
 # Pages widget
 
@@ -128,7 +128,7 @@
   translation: 摘要
 
 - id: publication
-  translation: 出版物
+  translation: 论文
 
 - id: publication_type
   translation: 类型
@@ -149,10 +149,10 @@
   translation: 未分类
 
 - id: pub_conf
-  translation: 会议文章
+  translation: 会议论文
 
 - id: pub_journal
-  translation: 期刊文章
+  translation: 期刊论文
 
 - id: pub_preprint
   translation: 预印本
