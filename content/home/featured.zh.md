@@ -21,6 +21,8 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  link_to_archive = true
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
@@ -62,11 +64,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div align="right">
-  <h4>
-    <a href="./publication">
-      查看全部论文
-      <i class="fas fa-angle-right"></i>
-    </a>
-  </h4>
-</div>
